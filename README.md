@@ -23,7 +23,7 @@ Chef de production en agroalimentaire depuis novembre 2023, j'apporte aussi la r
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### 🤖 Outils d'IA
-Claude (Claude Code, Skills, Agents IA, Cowork) · ChatGPT & Codex · Gemini · Google Stitch · Qwen · DeepSeek · Google Antigravity · VS Code · Prompt engineering
+Claude (Claude Code, Skills, Agents IA, Cowork) · ChatGPT & Codex · Gemini · Google Stitch · Qwen · DeepSeek · Google Antigravity · VS Code · Cursor · Prompt engineering
 
 ### 🚀 Projets
 | Projet | Description | Technologies | Statut |
@@ -36,6 +36,5 @@ Claude (Claude Code, Skills, Agents IA, Cowork) · ChatGPT & Codex · Gemini · 
 > Mes projets tournent pour l'instant en local (clés API et hébergement à finaliser). Des démonstrations en ligne arrivent bientôt, et une démo en direct est possible sur demande.
 
 ### 📫 Me contacter
-- 💼 LinkedIn : [lien]
-- ✉️ Email : [adresse]
-- 📱 WhatsApp : [numéro]
+- ✉️ Email : compaorewendyam110@gmail.com
+- 📱 WhatsApp : +22672252720
