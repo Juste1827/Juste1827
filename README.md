@@ -1,4 +1,4 @@
-<h1 align="center">Compaore Wendyam Juste</h1>
+<h1 align="center">Compaore Wendyam Juste Bienvenu</h1>
 <p align="center"><b>Développeur Web & IA · Burkina Faso 🇧🇫</b></p>
 <p align="center"><i>Je conçois, déploie et automatise des sites, des applications web et mobiles, et des outils intelligents.</i></p>
 
