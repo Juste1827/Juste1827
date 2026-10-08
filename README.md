@@ -21,6 +21,7 @@ Chef de production en agroalimentaire depuis novembre 2023, j'apporte aussi la r
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ### 🤖 Outils d'IA
 Claude (Claude Code, Skills, Agents IA, Cowork) · ChatGPT & Codex · Gemini · Google Stitch · Qwen · DeepSeek · Google Antigravity · VS Code · Cursor · Prompt engineering
